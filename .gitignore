@@ -5,6 +5,7 @@ logs/
 *.pot
 *.vscode/
 *tests.py
+*app.db
 
 
 
